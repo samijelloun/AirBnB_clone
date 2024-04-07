@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="FULL" /> <!-- Changed auto reload type to FULL -->
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="770b40ad-4a61-4ed9-bbf0-17e9cff7aff3" name="ModifiedChanges" comment="" /> <!-- Changed name of the list to "ModifiedChanges" -->
+    <option name="SHOW_DIALOG" value="true" /> <!-- Set to show dialog -->
+    <option name="HIGHLIGHT_CONFLICTS" value="false" /> <!-- Turned off highlighting conflicts -->
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="true" /> <!-- Turned on highlighting non-active changelist -->
+    <option name="LAST_RESOLUTION" value="MERGE" /> <!-- Changed last resolution to MERGE -->
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$HOME_DIR$" /> <!-- Changed recent git root path to $HOME_DIR$ -->
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="2" /> <!-- Incremented state version -->
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component> <!-- Updated associated index -->
+  <component name="ProjectId" id="2dRwZ08enpGRUgcPlWykPofn3Jn" /> <!-- No changes made -->
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="false" /> <!-- Turned off hiding empty middle packages -->
+    <option name="showLibraryContents" value="false" /> <!-- Turned off showing library contents -->
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.console.executor": "Debug", <!-- Changed console executor to Debug -->
+    "RunOnceActivity.OpenProjectViewOnStart": "false", <!-- Set to not open project view on start -->
+    "RunOnceActivity.ShowReadmeOnStart": "false", <!-- Set to not show readme on start -->
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "/Users/newUser/AirBnB_clone" <!-- Changed last opened file path -->
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="new-python-sdk-abcdef123456-abcdef123456-com.jetbrains.pycharm.community.sharedIndexes.new-PC-233.13135.95" /> <!-- Updated attached chunk value -->
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="1" Folders="1" CustomDictionaries="1" DefaultDictionary="user-defined" UseSingleDictionary="false" transferred="false" /> <!-- Updated SpellCheckerSettings -->
+  <component name="TaskManager">
+    <task active="false" id="Custom" summary="Custom task"> <!-- Set task to inactive and customized summary -->
+      <changelist id="770b40ad-4a61-4ed9-bbf0-17e9cff7aff3" name="ModifiedChanges" comment="" /> <!-- Updated changelist reference -->
+      <created>1720000000000</created> <!-- Updated creation timestamp -->
+      <option name="number" value="Custom" /> <!-- Set task number to Custom -->
+      <option name="presentableId" value="Custom" /> <!-- Set presentable ID to Custom -->
+      <updated>1720000000000</updated> <!-- Updated last updated timestamp -->
+    </task>
+    <servers />
+  </component>
+</project>
